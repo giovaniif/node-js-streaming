@@ -4,6 +4,7 @@
   "main": "index.js",
   "author": "Giovani Farias <riccog.25@gmail.com>",
   "license": "MIT",
+  "type": "module",
   "scripts": {
     "dev": "nodemon index.js"
   },
